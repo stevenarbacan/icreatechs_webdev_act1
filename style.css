@@ -1,5 +1,6 @@
 *{
     margin:0px;
+    color:#00DFA2;
 }
 body{
     text-align: center;
@@ -17,16 +18,12 @@ h1{
     font-family: serif;
     letter-spacing: 2px;
 }
-p,li , td{
-    color:#F6FA70;
-}
 p{
     width: 70%;
     margin: 20px auto;
     font-size: 1.7em;
     letter-spacing: 2px;
     font-weight: 700;
-    color:#00DFA2;
     padding:20px 0px;
 }
 li{
